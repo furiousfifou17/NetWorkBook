@@ -1,1 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>1.2.9.0</version>
+  <url>https://github.com/furiousfifou17/NetWorkBook/Download/SetupNetworkBook-1-2-8-0.msi</url>
+  <args>/qn</args>
+  <!--<changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
+  <mandatory>true</mandatory>
+  <mandatory mode="2">true</mandatory>-->
+</item>
 
